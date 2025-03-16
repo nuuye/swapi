@@ -14,6 +14,7 @@ This application retrieves planet data from the SWAPI (Star Wars API), stores it
 - Mongoose
 
 ## Project Structure
+```
 swapi-planets-api/
 ├── app.js                 # Express application configuration
 ├── server.js              # Entry point to start the server
@@ -23,3 +24,4 @@ swapi-planets-api/
 │   └── planet.js          # Business logic for planet management
 └── routes/
     └── planets.js         # API route definitions
+```
